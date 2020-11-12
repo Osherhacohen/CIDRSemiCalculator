@@ -200,7 +200,7 @@
             this.labelNet2.Name = "labelNet2";
             this.labelNet2.Size = new System.Drawing.Size(88, 13);
             this.labelNet2.TabIndex = 7;
-            this.labelNet2.Text = "Network 1 CIDR:";
+            this.labelNet2.Text = "Network 2 CIDR:";
             // 
             // labelNet1
             // 
