@@ -2,8 +2,12 @@
 using System.Net;
 using LukeSkywalker.IPNetwork;
 
+
 namespace CIDRSemiCalculator.Classes
 {
+    /// <summary>
+    /// A ip/cidr calculator with 3 functions that actually work.
+    /// </summary>
     public static class CalculatorFunctions
     {
         /// <summary>

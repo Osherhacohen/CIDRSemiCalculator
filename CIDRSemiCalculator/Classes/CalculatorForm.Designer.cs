@@ -245,7 +245,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "CalcForm";
-            this.Text = "CIDR Semi Calculator";
+            this.Text = "CIDR Semi Calculator by Osher and Zemach";
             this.Load += new System.EventHandler(this.CalcForm_Load);
             this.groupBoxValidate.ResumeLayout(false);
             this.groupBoxValidate.PerformLayout();
